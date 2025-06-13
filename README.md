@@ -1,2 +1,14 @@
-# To-Do-List-App
-A clean and responsive To-Do List App that lets users add, check off, delete, and store tasks in the browser using localStorage.
+This To-Do List App allows users to manage daily tasks efficiently. Users can add new tasks, mark them as complete with a single click, delete individual tasks using the close (×) icon, and clear all tasks at once. The app uses localStorage to save tasks even after the page is refreshed, ensuring a persistent user experience.
+
+Features:
+ - Add new tasks quickly using the input field and "Add" button
+ - Mark tasks as complete with a single click
+ -  Delete individual tasks using the close (×) icon
+ -  Clear all tasks at once with the "Clear All" button
+ -  Persistent data using localStorage (tasks remain after refreshing the page)
+
+Tech Stack:
+ - HTML5: Structure of the app
+ - CSS3: Styling and layout (Flexbox, gradients, hover effects)
+ - JavaScript (Vanilla): Core logic for adding, removing, checking tasks, and localStorage
+ - localStorage API:	Browser storage for persistent data
